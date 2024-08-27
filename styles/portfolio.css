@@ -23,6 +23,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0px 200px;
 }
 
 .nav-title {
@@ -53,4 +54,9 @@ nav a{
 
 .bannar{
     padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.bannar .profile-picture{
+    width: 500px;
 }
