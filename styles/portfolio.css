@@ -45,3 +45,12 @@ nav a{
     color: black   ;
 }
 
+/* Header related styles */
+
+.header{
+    background-color: antiquewhite;
+}
+
+.bannar{
+    padding: 30px 30px 30px 150px;
+}
